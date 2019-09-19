@@ -1,0 +1,11 @@
+C:\Users\541309\Semester-4\Networking-ACW\location\location\bin\Release\location.exe
+C:\Users\541309\Semester-4\Networking-ACW\location\location\bin\Release\location.pdb
+C:\Users\541309\Semester-4\Networking-ACW\location\location\obj\Release\location.csprojResolveAssemblyReference.cache
+C:\Users\541309\Semester-4\Networking-ACW\location\location\obj\Release\ClientInterface.g.cs
+C:\Users\541309\Semester-4\Networking-ACW\location\location\obj\Release\location_MarkupCompile.cache
+C:\Users\541309\Semester-4\Networking-ACW\location\location\obj\Release\location_MarkupCompile.lref
+C:\Users\541309\Semester-4\Networking-ACW\location\location\obj\Release\ClientInterface.baml
+C:\Users\541309\Semester-4\Networking-ACW\location\location\obj\Release\location.g.resources
+C:\Users\541309\Semester-4\Networking-ACW\location\location\obj\Release\location.csproj.CoreCompileInputs.cache
+C:\Users\541309\Semester-4\Networking-ACW\location\location\obj\Release\location.exe
+C:\Users\541309\Semester-4\Networking-ACW\location\location\obj\Release\location.pdb

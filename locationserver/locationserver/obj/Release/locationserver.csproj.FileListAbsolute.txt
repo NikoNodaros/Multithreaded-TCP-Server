@@ -1,0 +1,13 @@
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\locationserver\bin\Release\locationserver.exe.config
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\locationserver\bin\Release\locationserver.exe
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\locationserver\bin\Release\locationserver.pdb
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\locationserver\obj\Release\locationserver.csprojResolveAssemblyReference.cache
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\locationserver\obj\Release\ServerInterface.g.cs
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\locationserver\obj\Release\locationserver_Content.g.cs
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\locationserver\obj\Release\locationserver_MarkupCompile.cache
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\locationserver\obj\Release\locationserver_MarkupCompile.lref
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\locationserver\obj\Release\ServerInterface.baml
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\locationserver\obj\Release\locationserver.g.resources
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\locationserver\obj\Release\locationserver.csproj.CoreCompileInputs.cache
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\locationserver\obj\Release\locationserver.exe
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\locationserver\obj\Release\locationserver.pdb

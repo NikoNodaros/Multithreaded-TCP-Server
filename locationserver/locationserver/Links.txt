@@ -1,0 +1,84 @@
+﻿		//https://softwareengineering.stackexchange.com/questions/173575/what-is-a-thread-pool
+        //https://www.google.co.uk/search?q=threadpool&oq=threadpool&aqs=chrome..69i57j0l5.4687j1j7&sourceid=chrome&ie=UTF-8
+        //https://www.codeproject.com/Articles/2477/Multi-threaded-Client-Server-Socket-Class
+        //https://randcode.wordpress.com/2013/09/30/simple-multithreaded-serverclient-in-c/
+        //https://social.msdn.microsoft.com/Forums/vstudio/en-US/20f737aa-6c45-4e9f-b627-d3128d31de61/multi-threaded-server-socket-for-multiple-clients-threading-and-send-receive-issue?forum=csharpgeneral
+        //https://stackoverflow.com/questions/23882216/socket-programming-using-c-sharp-based-on-thread-loses-the-data
+        //https://gist.github.com/leandrosilva/656054
+        //https://codereview.stackexchange.com/questions/165833/multithreaded-c-tcp-socket-server
+        //http://www.mikeadev.net/2012/07/multi-threaded-tcp-server-in-csharp/
+        //http://csharp.net-informations.com/communications/csharp-multi-threaded-server-socket.htm
+        //http://www.c-sharpcorner.com/article/a-simple-multi-threaded-tcpudp-server-and-client-v2/
+        //https://www.google.co.uk/search?q=c%23+multithreaded+socket+server&oq=c%23+multithreaded+&aqs=chrome.0.0j69i58j69i57j0l3.8470j1j7&sourceid=chrome&ie=UTF-8
+        //https://www.youtube.com/watch?v=cG5q4XdYIUI
+        //https://stackoverflow.com/jobs/168286/studenten-m-w-f%C3%BCr-devops-administration-von-ivu-traffic-technologies-ag?so=i&pg=1&offset=8&l=Berlin%2c+Germany&u=Miles&d=20&ms=Student&mxs=Junior
+        //https://stackoverflow.com/jobs?sort=i&l=Berlin%2C+Germany&d=20&u=Miles&c=gbp&ms=Student&mxs=Junior
+        //https://softwareengineering.stackexchange.com/questions/173575/what-is-a-thread-pool
+        //https://msdn.microsoft.com/en-us/library/system.argumentoutofrangeexception(v=vs.110).aspx
+        //https://www.udemy.com/how-to-write-multi-threaded-csharp-code/
+        //https://github.com/dosvidos?tab=repositories
+        //https://answers.unity.com/questions/539573/c-help-fix-argument-is-out-of-range-error.html
+        //https://msdn.microsoft.com/en-us/library/windows/desktop/ms682516(v=vs.85).aspx
+        //https://msdn.microsoft.com/en-us/library/windows/desktop/ms686689(v=vs.85).aspx
+        //https://msdn.microsoft.com/en-us/library/windows/desktop/ms684254(v=vs.85).aspx
+        //https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/task-based-asynchronous-pattern-tap
+        //https://docs.microsoft.com/en-us/dotnet/csharp/async
+        //https://msdn.microsoft.com/en-us/library/hh191443(v=vs.120).aspx?cs-save-lang=1&cs-lang=csharp#code-snippet-1
+        //https://stackoverflow.com/questions/14455293/how-and-when-to-use-async-and-await
+        //https://en.wikipedia.org/wiki/Regular_expression
+        //file://cna-cifs.adir.hull.ac.uk/home5/541/541309/Desktop/08140%20%20ACW%20description%2017-18.pdf
+        //https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/lock-statement
+        //https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+        //https://msdn.microsoft.com/en-us/library/z41h7fat.aspx
+        //https://stackoverflow.com/questions/3813485/internal-vs-private-access-modifiers
+        //https://softwareengineering.stackexchange.com/questions/128252/organizing-class-members-in-regards-to-access-modifier
+        //https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/conditional-operator
+        //http://rubular.com/
+		//https://www.google.co.uk/search?q=how+to+call+wpf+from+main+class&oq=how+to+call+wpf+from+main+class&aqs=chrome..69i57.11823j0j7&sourceid=chrome&ie=UTF-8
+		https://stackoverflow.com/questions/39545623/multithreading-in-wpf-application
+		http://www.wpf-tutorial.com/misc/multi-threading-with-the-backgroundworker/
+		https://www.c-sharpcorner.com/UploadFile/1c8574/threads-in-wpf/
+		https://www.c-sharpcorner.com/UploadFile/ashish_2008/multithreading-in-wpf-part-i/
+		https://msdn.microsoft.com/en-us/magazine/dn630646.aspx
+		https://www.google.co.uk/search?q=wpf+with+multithreading&oq=wpf+with+multi&aqs=chrome.3.69i57j0l5.7263j0j7&sourceid=chrome&ie=UTF-8
+		
+		[19/03/18]
+		https://social.msdn.microsoft.com/Forums/vstudio/en-US/0bc735cd-e539-45aa-a8ac-2ce37e5dfbde/does-changing-a-keyvaluepair-trigger-the-propertychanged-event-in-observabledictionary?forum=vbgeneral
+		O-O
+		notes:
+
+		[Client Interface]
+		debug mode: checkbox
+		timeout: textbox
+		host: textbox
+		name: textbox
+		location: textbox
+		port: textbox
+		server response: textbox
+		
+		protocol: combobox
+		send request: buton
+		
+
+		[Server Interface]
+		debug mode
+		timeout
+		logging path
+		saving path
+		close server
+		run / close
+		server status
+
+		TODO:
+		Make properties in Client class of things you want to access through the interface
+		Make properties in ClientInterface class so GUI can bind to them
+		Bind GUI element data to ClientInterface properties 
+			|Property|="{Binding (this), ElementName="window"}"  --- |Property| = Text/Content etc of Element  |  (this) = Name of property in ClientInterface class
+		Create Validation for some fields
+
+		Website connection with client
+		//-h threethinggame.com page/08140 -p 80 -h1 -nt
+		Protocol handling part in server
+		Lab test 10
+		All lab tests
+		README

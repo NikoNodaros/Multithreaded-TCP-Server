@@ -1,0 +1,12 @@
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\bin\Debug\locationserver.exe.config
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\bin\Debug\locationserver.exe
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\bin\Debug\locationserver.pdb
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\obj\Debug\ServerInterface.g.cs
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\obj\Debug\locationserver_Content.g.cs
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\obj\Debug\locationserver_MarkupCompile.cache
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\obj\Debug\locationserver_MarkupCompile.lref
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\obj\Debug\ServerInterface.baml
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\obj\Debug\locationserver.g.resources
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\obj\Debug\locationserver.exe
+C:\Users\541309\Semester-4\Networking-ACW\locationserver\obj\Debug\locationserver.pdb
